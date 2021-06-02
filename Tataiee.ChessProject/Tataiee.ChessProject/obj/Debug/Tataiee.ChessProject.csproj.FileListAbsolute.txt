@@ -1,0 +1,38 @@
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe.config
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csprojResolveAssemblyReference.cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Form1.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Properties.Resources.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csproj.GenerateResource.Cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe.config
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csprojResolveAssemblyReference.cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Form1.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Properties.Resources.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csproj.GenerateResource.Cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe.config
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csprojResolveAssemblyReference.cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Form1.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Properties.Resources.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csproj.GenerateResource.Cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.StartUpPosition.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe.config
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.exe
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\bin\Debug\Tataiee.ChessProject.pdb
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csprojResolveAssemblyReference.cache
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Form1.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.Properties.Resources.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.StartUpPosition.resources
+E:\Computer\Projects\Basic\C#\2017\P\Tataiee.ChessProject - Copy - Copy - Copy (3)\Tataiee.ChessProject\obj\Debug\Tataiee.ChessProject.csproj.GenerateResource.Cache
