@@ -1,0 +1,13 @@
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.AboutContent.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.Form1.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.Help.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.Properties.Resources.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.PuzzleStarterCompletedEventArgs.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.TutorialContent.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.UCFinalSelect.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.UCGame.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.UCPictureSelect.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.UCPictureSize.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.Victory.resources
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.csproj.GenerateResource.cache
+C:\Users\Kashira Computer\Desktop\Tataiee.Puzzle\Tataiee.Puzzle\obj\Release\Tataiee.Puzzle.csproj.CoreCompileInputs.cache

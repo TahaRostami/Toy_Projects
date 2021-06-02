@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4614EC53-DD49-4833-A460-1AC0234A3D74}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tataiee.Puzzle</RootNamespace>
+    <AssemblyName>Tataiee.Puzzle</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Puzzle_48px.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Program Files\Bunifu Technologies\Bunifu Framework Manager\bin\updates\Bunifu_UI_1.5\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AboutContent.Designer.cs">
+      <DependentUpon>AboutContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Puzzle.cs" />
+    <Compile Include="PuzzleStarter.cs" />
+    <Compile Include="PuzzleStarter.Designer.cs">
+      <DependentUpon>PuzzleStarter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TutorialContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TutorialContent.Designer.cs">
+      <DependentUpon>TutorialContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCFinalSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCFinalSelect.Designer.cs">
+      <DependentUpon>UCFinalSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCGame.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCGame.Designer.cs">
+      <DependentUpon>UCGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCPictureSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCPictureSelect.Designer.cs">
+      <DependentUpon>UCPictureSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCPictureSize.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCPictureSize.Designer.cs">
+      <DependentUpon>UCPictureSize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Victory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Victory.Designer.cs">
+      <DependentUpon>Victory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAPI.cs" />
+    <EmbeddedResource Include="AboutContent.resx">
+      <DependentUpon>AboutContent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PuzzleStarter.resx">
+      <DependentUpon>PuzzleStarter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TutorialContent.resx">
+      <DependentUpon>TutorialContent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCFinalSelect.resx">
+      <DependentUpon>UCFinalSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCGame.resx">
+      <DependentUpon>UCGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCPictureSelect.resx">
+      <DependentUpon>UCPictureSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCPictureSize.resx">
+      <DependentUpon>UCPictureSize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Victory.resx">
+      <DependentUpon>Victory.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit Image_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image File_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ok_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove Image_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sort Left_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sort Right_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eraser_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizontal Line_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-paint-puzzle-vector_23-2147491303.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Controller_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create New_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Puzzle_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Puzzle_48px.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Puzzle_48px.ico" />
+    <None Include="Resources\doubleCube2.png" />
+    <None Include="Resources\t5.png" />
+    <None Include="Resources\t8.png" />
+    <None Include="Resources\t11.png" />
+    <None Include="Resources\t10.png" />
+    <None Include="Resources\t9.png" />
+    <None Include="Resources\t7.png" />
+    <None Include="Resources\t6.png" />
+    <None Include="Resources\t4.png" />
+    <None Include="Resources\t3.png" />
+    <None Include="Resources\t2.png" />
+    <None Include="Resources\t1.png" />
+    <None Include="Resources\t1.gif" />
+    <None Include="Resources\Course_32px.png" />
+    <None Include="Resources\About_32px.png" />
+    <None Include="Resources\Back Arrow_32px.png" />
+    <None Include="Resources\victory.gif" />
+    <None Include="Resources\a1.wav" />
+    <None Include="Resources\a0.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
