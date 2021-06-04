@@ -74,7 +74,6 @@ def game():
     printB(board)
    else: continue
   else:
-   pass
    #computer play 
    empty_homes=lst_empty_homes(board)
    slected_home=empty_homes[random.randint(0,len(empty_homes))]
