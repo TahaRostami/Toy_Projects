@@ -83,8 +83,8 @@ def game():
    time.sleep(1)
    printB(board)
     
-  if turn==0: turn=1
-  else:turn=0
+  if turn==-1: turn=1
+  else:turn=-1
 
   
   
